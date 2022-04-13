@@ -2,6 +2,7 @@ import styled from 'styled-components';
 
 interface Props {
   backgroundColor: string;
+  onClick: () => void;
 }
 
 interface TextProps {
@@ -23,3 +24,5 @@ export const Text = styled.p<TextProps>`
 
   color: ${({ index }) => (index > 10 ? 'white' : 'black')};
 `;
+
+export const Alert = styled.p``;
