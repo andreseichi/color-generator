@@ -1,4 +1,4 @@
-# [Song Lyrics](https://song-lyrics-gamma.vercel.app/)
+# [Color Generator](https://color-generator-nu.vercel.app/)
 
 <p align="center">
     <img alt="Yarn package" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=fff">
@@ -36,4 +36,4 @@ or
 
 `yarn build`
 
-## [Demo]('https://color-generator-nu.vercel.app/')
+## [Demo](https://color-generator-nu.vercel.app/)
